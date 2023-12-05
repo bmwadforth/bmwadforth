@@ -8,4 +8,4 @@
 - Google Cloud Platform
 
 ## Architecture
-![bmwadforth-architecture](https://cdn.bmwadforth.com/bmwadforth-architecture.svg)
+![architecture](https://cdn.bmwadforth.com/bmwadforth-architecture.svg)
